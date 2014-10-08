@@ -5,7 +5,9 @@
     - [X] Email Kelly
     - [X] Email SeW
     - [X] Reserve room
-    - [ ] Publish survey results
+    - [X] Publish survey results
+      - Data_All_141008.zip
+      - Data_All_141008.pptx
     - [ ] Blog
     - [ ] Pre-notice
   - [ ] Event planning
