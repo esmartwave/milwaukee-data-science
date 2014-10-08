@@ -18,6 +18,8 @@
       - 1x veggie classic
       - 2x code
       - 1x diet coke
+      - Pizza$:
+      - Tip$: 
     - [ ] Plastic plats
     - [ ] Plastic cups
     - [ ] 4x Signs and instructions
