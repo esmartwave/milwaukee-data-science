@@ -1,0 +1,31 @@
+- [0%]
+  - [ ] Venue planning
+    - [ ] Set date
+    - [ ] Set theme
+    - [ ] Email Kelly
+    - [ ] Email SeW
+    - [ ] Reserve room
+    - [ ] Publish survey results
+    - [ ] Blog
+    - [ ] Pre-notice
+  - [ ] Event planning
+    - [ ] Pizza: Toppers WEST ALLIS: 1676 S. 108 (414) 727-7007
+      - 12 going
+      - Last time 15 attended, had 3 too many pizzas and sodas
+      - 2x meat topper
+      - 1x pepperoni and sausage
+      - 1x 3 lil pigs
+      - 1x veggie classic
+      - 2x code
+      - 1x diet coke
+    - [ ] Plastic plats
+    - [ ] Plastic cups
+    - [ ] 4x Signs and instructions
+    - [ ] 2x tent fliers
+    - [ ] 1x Name tags
+  - [ ] Agenda
+    - Dine
+    - Scrum
+    - Survey review
+    - Structure & Strategy
+    - =N= month planning, options, and ideas
