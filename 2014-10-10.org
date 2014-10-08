@@ -22,8 +22,8 @@
       - 1x diet coke
       - Pizza$:
       - Tip$:
-    - [ ] Plastic plates: bottom cabinet
-    - [ ] Plastic cups: above fridge
+    - [X] Plastic plates: bottom cabinet
+    - [X] Plastic cups: above fridge
     - [X] 4x Signs and instructions
     - [X] 2x tent fliers
     - [ ] 1x Name tags
