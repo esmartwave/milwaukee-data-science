@@ -1,6 +1,6 @@
 - [0%]
-  - [ ] Venue planning
-    - [ ] Set date
+  - [-] Venue planning
+    - [X] Set date and time
     - [ ] Set theme
     - [ ] Email Kelly
     - [ ] Email SeW
