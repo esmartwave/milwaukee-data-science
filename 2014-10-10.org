@@ -10,7 +10,7 @@
       - Data_All_141008.pptx
     - [ ] Pre-notice
     - [ ] Blog
-  - [ ] Event planning
+  - [-] Event planning
     - [ ] Pizza: Toppers WEST ALLIS: 1676 S. 108 (414) 727-7007
       - 12 going
       - Last time 15 attended, had 3 too many pizzas and sodas
@@ -24,8 +24,8 @@
       - Tip$:
     - [ ] Plastic plats
     - [ ] Plastic cups
-    - [ ] 4x Signs and instructions
-    - [ ] 2x tent fliers
+    - [X] 4x Signs and instructions
+    - [X] 2x tent fliers
     - [ ] 1x Name tags
   - [ ] Agenda
     - Dine
