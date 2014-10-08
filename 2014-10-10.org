@@ -8,7 +8,7 @@
     - [X] Publish survey results
       - Data_All_141008.zip
       - Data_All_141008.pptx
-    - [ ] Pre-notice
+    - [X] Pre-notice
     - [ ] Blog
   - [-] Event planning
     - [ ] Pizza: Toppers WEST ALLIS: 1676 S. 108 (414) 727-7007
