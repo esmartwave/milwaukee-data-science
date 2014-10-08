@@ -4,7 +4,7 @@
     - [X] Set theme
     - [X] Email Kelly
     - [X] Email SeW
-    - [ ] Reserve room
+    - [X] Reserve room
     - [ ] Publish survey results
     - [ ] Blog
     - [ ] Pre-notice
