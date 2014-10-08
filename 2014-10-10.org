@@ -19,7 +19,7 @@
       - 2x code
       - 1x diet coke
       - Pizza$:
-      - Tip$: 
+      - Tip$:
     - [ ] Plastic plats
     - [ ] Plastic cups
     - [ ] 4x Signs and instructions
@@ -31,3 +31,7 @@
     - Survey review
     - Structure & Strategy
     - =N= month planning, options, and ideas
+  - [ ] Wrapup
+    - [ ] Capture minutes
+    - [ ] Tidy area
+    - [ ] Double-check, lockdown
