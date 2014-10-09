@@ -1,4 +1,4 @@
-- [50%]
+- [66%]
   - [X] Venue planning
     - [X] Set date and time
     - [X] Set theme
