@@ -33,7 +33,3 @@
     - Survey review
     - Structure & Strategy
     - =N= month planning, options, and ideas
-  - [ ] Wrapup
-    - [ ] Capture minutes
-    - [ ] Tidy area
-    - [ ] Double-check, lockdown
