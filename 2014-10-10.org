@@ -1,4 +1,4 @@
-- [66%]
+- [100%]
   - [X] Venue planning
     - [X] Set date and time
     - [X] Set theme
@@ -10,8 +10,8 @@
       - Data_All_141008.pptx
     - [X] Pre-notice
     - [X] Blog
-  - [-] Event planning
-    - [ ] Pizza: Toppers WEST ALLIS: 1676 S. 108 (414) 727-7007
+  - [X] Event planning
+    - [X] Pizza: Toppers WEST ALLIS: 1676 S. 108 (414) 727-7007
       - 12 going
       - Last time 15 attended, had 3 too many pizzas and sodas
       - 2x meat topper
@@ -20,8 +20,8 @@
       - 1x veggie classic
       - 2x code
       - 1x diet coke
-      - Pizza$:
-      - Tip$:
+      - Pizza$: 83.92/91.26
+      - Tip$: 12.59 (15%)
     - [X] Plastic plates: bottom cabinet
     - [X] Plastic cups: above fridge
     - [X] 4x Signs and instructions
