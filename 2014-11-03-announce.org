@@ -48,10 +48,14 @@ place, at SpiderLogic, same diet, Toppers. This leads us to our plan for the
 
 All interactions are a form of entertainment, in some way shape or form. What
 we are striving for, though, are valuable interactions with our peers via direct
-and inter-personal contributions. We will start out as guests of other's
+and inter-personal contributions. We will start out as guests of others
 company, and we will grow into collaborators.
 
 If you know anyone who you think would be a great guest and collaborator, then
-be sure to pass on news of this event to them, too!
+be sure to pass on news of this event to them, too! You may easily to so by
+- Sending them a link to this event on our [[http://www.meetup.com/Milwaukee-Data-Science/][home page]]
+- Sending them a link to this announcement on our [[https://github.com/grettke/milwaukee-data-science/blob/master/2014-11-03-announce.md][github page]]
+- Forwarding this announcement from your email
+- Via a subtle yet moving interpretive dance
 
 Kind regards,
