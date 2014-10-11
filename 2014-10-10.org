@@ -22,6 +22,9 @@
       - 1x diet coke
       - Pizza$: 83.92/91.26
       - Tip$: 12.59 (15%)
+      - Leftovers
+        - 1 pizza
+        - 2 sodas
     - [X] Plastic plates: bottom cabinet
     - [X] Plastic cups: above fridge
     - [X] 4x Signs and instructions
