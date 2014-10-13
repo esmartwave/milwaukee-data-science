@@ -19,15 +19,36 @@
 -   Grant
     -   Topics that I will enjoy presenting
         - Reproducible Research
-          - [http://orgmode.org/](org-mode), [http://yihui.name/knitr/](knitr)
+          - [org-mode](http://orgmode.org/), [knitr](http://yihui.name/knitr/)
         - Version control with Git
-          - [https://github.com/](GitHub)
-        - Dev Opc
-          - [http://www.vagrantup.com/](Vagrant)
+          - [GitHub](https://github.com/)
+        - Dev Ops
+          - [Vagrant](http://www.vagrantup.com/)
+          - [Amazon Web Services](https://aws.amazon.com/)
         - Software Engineering
         - Programming
         - Consulting
+        - ℝ development
+        - Coursera [DSS](https://www.coursera.org/specialization/jhudatascience/1)
+        - How to Hack a talk at [OSCON](http://www.oscon.com/oscon2014)
+          - How to craft a proposal guaranteed to be accepted
+            - Defining the problem
+            - Data obtaining and cleaning
+              - Known talks
+              - Social networks
+              - Literature
+              - Company, employer
+              - Mechanical Turk as a resource
+            - Exploratory data analysis
+            - Data mining
+            - Model design and testing
     -   Topics that I will enjoy consuming
+        - Applied math
+        - Applied statistics
+        - Pragmatic consulting details
+        - Human emotion in the process
+        - Knowledge engineering, ontology
+        - Rules engines
 -   Jacob
     -   Topics that I will enjoy presenting
     -   Topics that I will enjoy consuming
