@@ -18,6 +18,15 @@
     -   Topics that I will enjoy consuming
 -   Grant
     -   Topics that I will enjoy presenting
+        - Reproducible Research
+          - [http://orgmode.org/](org-mode), [http://yihui.name/knitr/](knitr)
+        - Version control with Git
+          - [https://github.com/](GitHub)
+        - Dev Opc
+          - [http://www.vagrantup.com/](Vagrant)
+        - Software Engineering
+        - Programming
+        - Consulting
     -   Topics that I will enjoy consuming
 -   Jacob
     -   Topics that I will enjoy presenting
