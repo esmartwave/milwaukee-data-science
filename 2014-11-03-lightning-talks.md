@@ -42,6 +42,10 @@
             - Exploratory data analysis
             - Data mining
             - Model design and testing
+        - What is an enjoyable diet given constraints
+          - Storage
+          - Distance to store
+          - National recommendations
     -   Topics that I will enjoy consuming
         - Applied math
         - Applied statistics
