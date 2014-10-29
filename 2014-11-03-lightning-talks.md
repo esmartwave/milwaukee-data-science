@@ -9,7 +9,13 @@
         -   consectetur
 -   Andrei
     -   Topics that I will enjoy presenting
+        - Machine learning
+        - Artificial neural networks
+        - Support vector machines
     -   Topics that I will enjoy consuming
+        - Machine learning
+        - Artificial neural networks
+        - Support vector machines
 -   David
     -   Topics that I will enjoy presenting
     -   Topics that I will enjoy consuming
