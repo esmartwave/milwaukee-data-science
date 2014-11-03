@@ -17,11 +17,14 @@
         - 14-11: 16 people, 6 pizzas ordered
       - 14" large thin
       - 3x meat topper
-      - 1x pepperoni and sausage
-      - 2x veggie classic
-      - 2x coke
-      - Pizza$:
-      - Tip$ (%15):
+      - 1x pepperoni only (deal)
+      - 2x veggie classic (deal)
+      - 2x coke (deal)
+      - Pizza$: 102.94
+      - Dev charge: 2.50
+      - Tax: 5.90
+      - Total: 113.34
+      - Tip$ (%15): 17.00
     - [X] Plastic plates: bringing
     - [X] Plastic cups: bringing
     - [X] Paper towel: bringing
