@@ -6,7 +6,7 @@
     - [X] Email SeW
     - [X] Reserve room
     - [X] Blog
-  - [ ] Event planning
+  - [-] Event planning
     - [ ] Pizza: Toppers WEST ALLIS: 1676 S. 108 (414) 727-7007
       - 16 going
       - Previous
@@ -20,10 +20,11 @@
       - 2x coke
       - Pizza$:
       - Tip$ (%15):
-    - [ ] Plastic plates: bottom cabinet
-    - [ ] Plastic cups: above fridge
-    - [ ] 4x Signs and instructions
-    - [ ] 2x tent fliers
+    - [X] Plastic plates: bringing
+    - [X] Plastic cups: bringing
+    - [X] Paper towel: bringing
+    - [X] 4x Signs and instructions
+    - [X] 2x tent fliers
     - [ ] 1x Name tags
   - [ ] Agenda
     - [ ] Determined last meeting
