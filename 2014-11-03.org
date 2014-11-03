@@ -24,7 +24,7 @@
     - [X] Plastic cups: bringing
     - [X] Paper towel: bringing
     - [X] H2O: top storage in office
-    - [ ] Garbage bags: 3x bringing (for fas cleanup)
+    - [ ] Garbage bags: 3x bringing (for fast cleanup)
     - [X] 4x Signs and instructions
     - [X] 2x tent fliers
     - [-] 1x Name tags
