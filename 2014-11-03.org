@@ -25,8 +25,8 @@
     - [X] Paper towel: bringing
     - [X] 4x Signs and instructions
     - [X] 2x tent fliers
-    - [ ] 1x Name tags
-      - [ ] Obtain
+    - [-] 1x Name tags
+      - [X] Obtain
       - [ ] Print
   - [ ] Agenda
     - [ ] Determined last meeting
