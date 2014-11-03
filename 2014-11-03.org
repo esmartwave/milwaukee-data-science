@@ -1,4 +1,4 @@
-- [100%]
+- [66%]
   - [X] Venue planning
     - [X] Set date and time
     - [X] Set plan
@@ -7,7 +7,7 @@
     - [X] Reserve room
     - [X] Blog
     - [X] Final notice, day of
-  - [X] Event planning
+  - [-] Event planning
     - [X] Pizza: Toppers WEST ALLIS: 1676 S. 108 (414) 727-7007
       - 16 going
       - Previous
@@ -33,8 +33,9 @@
     - [X] 4x Signs and instructions
     - [X] 2x tent fliers
     - [X] Contact info: desk at work?
-    - [X] 1x Name tags
+    - [-] 1x Name tags
       - [X] Obtain
+      - [ ] Sharpie for write-ins
       - [X] Scissors: Fiscars
       - [X] Print
   - [X] Agenda
