@@ -26,5 +26,7 @@
     - [X] 4x Signs and instructions
     - [X] 2x tent fliers
     - [ ] 1x Name tags
+      - [ ] Obtain
+      - [ ] Print
   - [ ] Agenda
     - [ ] Determined last meeting
