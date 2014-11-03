@@ -8,12 +8,16 @@
     - [X] Blog
   - [ ] Event planning
     - [ ] Pizza: Toppers WEST ALLIS: 1676 S. 108 (414) 727-7007
-      - ? going
-      - Last time 9 attended, had 1 too many pizzas and 2 too many sodas
-      - 2x meat topper
+      - 16 going
+      - Previous
+        - 14-09: 16 people, 7 pizzas consumed, 15 slices left over (1.25 pizzas)
+        - 14-10: 10 people, 5 pizzas consomed, 12 slices left over (1.00 pizzas)
+          - 12 RSVP'd
+        - 14-11: 16 people, 6 pizzas ordered
+      - 3x meat topper
       - 1x pepperoni and sausage
-      - 1x veggie classic
-      - 1x code
+      - 2x veggie classic
+      - 2x coke
       - Pizza$:
       - Tip$ (%15):
     - [ ] Plastic plates: bottom cabinet
