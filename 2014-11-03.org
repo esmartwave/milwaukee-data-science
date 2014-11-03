@@ -30,7 +30,7 @@
     - [X] Contact info: desk at work?
     - [-] 1x Name tags
       - [X] Obtain
-      - [ ] Scissors
+      - [X] Scissors: Fiscars
       - [ ] Print
   - [X] Agenda
     - Arrange tables in diamond: 3x side, 1x ends will cover the 16 RSVP'd
