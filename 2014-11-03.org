@@ -27,6 +27,7 @@
     - [X] Garbage bags: 3x bringing (for fast cleanup)
     - [X] 4x Signs and instructions
     - [X] 2x tent fliers
+    - [ ] Contact info: desk at work?
     - [-] 1x Name tags
       - [X] Obtain
       - [ ] Print
