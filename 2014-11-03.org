@@ -6,6 +6,7 @@
     - [X] Email SeW
     - [X] Reserve room
     - [X] Blog
+    - [X] Final notice, day of
   - [-] Event planning
     - [ ] Pizza: Toppers WEST ALLIS: 1676 S. 108 (414) 727-7007
       - 16 going
