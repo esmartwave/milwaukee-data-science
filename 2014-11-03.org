@@ -38,7 +38,7 @@
     - 15-20m: Dinner mingling
     - 10m: Dinner mingling wrapup:
       - Welcome
-      - Overview of tonight
+      - Overview of tonight (new logo)
       - Introductions for new attendees
       - Overview of the next 3-6 months: December is *off*
     - 60-75m: Lightning talks
