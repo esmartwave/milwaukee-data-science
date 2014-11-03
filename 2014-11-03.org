@@ -15,6 +15,7 @@
         - 14-10: 10 people, 5 pizzas consomed, 12 slices left over (1.00 pizzas)
           - 12 RSVP'd
         - 14-11: 16 people, 6 pizzas ordered
+      - 14" large thin
       - 3x meat topper
       - 1x pepperoni and sausage
       - 2x veggie classic
