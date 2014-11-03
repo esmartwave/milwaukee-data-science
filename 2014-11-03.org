@@ -1,4 +1,4 @@
-- [33%]
+- [66%]
   - [X] Venue planning
     - [X] Set date and time
     - [X] Set plan
@@ -23,10 +23,26 @@
     - [X] Plastic plates: bringing
     - [X] Plastic cups: bringing
     - [X] Paper towel: bringing
+    - [ ] Garbage bags: 3x bringing (for fas cleanup)
     - [X] 4x Signs and instructions
     - [X] 2x tent fliers
     - [-] 1x Name tags
       - [X] Obtain
       - [ ] Print
-  - [ ] Agenda
-    - [ ] Determined last meeting
+  - [X] Agenda
+    - Arrange tables in diamond: 3x side, 1x ends will cover the 16 RSVP'd
+    - Door welcome: hello, name tags, contact info
+    - 15-20m: Dinner mingling
+    - 10m: Dinner mingling wrapup:
+      - Welcome
+      - Overview of tonight
+      - Introductions for new attendees
+      - Overview of the next 3-6 months: December is *off*
+    - 60-75m: Lightning talks
+      - 5m/person
+        - Charles OOO
+      - Pitches for presentations, lectures, discussion points
+      - Collect in backlog
+      - Voting on the backlog determines rough plan for future meetings
+    - 30m: MetroMap: making sense of it all
+    - 15m: Mingling, farewell
