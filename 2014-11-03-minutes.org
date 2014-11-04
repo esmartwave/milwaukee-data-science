@@ -15,8 +15,17 @@
 
 - Thoughts
   - Translating the business problem into taking action
+  - An engineer
+  - Functional results
+  - Meet people
+  - Stories of something that someone succeeded at, also failure, and lessons learned
+  - Company presents problem, brainstorming for solution
+  - Pure education, tool, stuff
+  - *Data engineer*
 - Projects
-  -
+  - Projects we've completed, how, results, approach
+  - Enabling technolgoies for those projects
+  - Dev-ops, deployment and development, domain useful tools
 
 * Joost
 
