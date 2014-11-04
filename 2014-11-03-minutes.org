@@ -13,11 +13,17 @@
 
 * Art
 
-- Translating the business problem into taking action
+- Thoughts
+  - Translating the business problem into taking action
+- Projects
+  -
 
 * Joost
 
-- What would you like to get from attending?
+- Thoughts
+  - What would you like to get from attending?
+- Projects
+  -
 
 * Tom
 
@@ -36,7 +42,17 @@
   - Where we can go with DS, what we can do with it
   - Vagueness removal
   - Perhaps invite fellow students out
-- Projects
-  - Game ideas
   - Perhaps gamification
   - Crowdsourcing human intelligence for gaming and problem solving
+- Projects
+  - Game ideas
+
+* Bob
+
+- Thoughts
+  - Interested in IoT, what to get, what to do
+  - How sensors can be utilized
+  - Bio monitoring
+  - Quantified self stuff
+- Projects
+  - Bio-monitoring
