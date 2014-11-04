@@ -74,3 +74,10 @@
 -   Tom
     -   Topics that I will enjoy presenting
     -   Topics that I will enjoy consuming
+-   Caleb
+    -   Topics that I will enjoy presenting
+        - IPython Notebook
+        - Possible shared project: Voice identification
+        - Possible shared project: Hacker News analyzer
+    -   Topics that I will enjoy consuming
+        - Markov Chain Monte Carlo
