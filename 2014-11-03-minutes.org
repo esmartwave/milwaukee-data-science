@@ -66,3 +66,19 @@
 - Projects
   - Bio-monitoring
   - Bio feedback hand held device?
+
+* Caleb
+
+- Thoughts
+  - How to handle fuzzy data
+- Projects
+  - Study of hacker news
+    - Rank, titles,
+    - Reccomender: how to maximize visibility of posts
+  - How to write a data scraper
+  - Supervised learning, voice input, machine learning to quantify
+    patterns, to recognize speakers, harmoic signature, timber
+  - Dev-ops, packer, vagrant, boot2docker
+  - Robot localization
+  - IPython Notebook
+  - Python in general
