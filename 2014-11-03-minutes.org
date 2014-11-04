@@ -105,8 +105,17 @@
 
 - Thoughts
   - Py OpenCV
+  - Network with other folks who have interests
+  - Machine vision, ag
+  - Music training identification systems
+  - Healthcare projects
+  - Metabolic output sensors (cancer chemicals, viral infections)
+  - Vintage car smell detection
+  - Industrial automation
 - Projects
-  -
+  - Drones
+  - Agricultural science
+  - Autonomous vehicles: 6 \sigma , control systems, automated, link IoT with execution
 
 * Kurt V.
 
@@ -115,6 +124,12 @@
 - Projects
   -
 
+* Charles
+
+- Thoughts
+  -
+- Projects
+  -
 
 * Michael
 
