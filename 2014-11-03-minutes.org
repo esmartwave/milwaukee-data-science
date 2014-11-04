@@ -120,14 +120,27 @@
 * Kurt V.
 
 - Thoughts
-  -
+  - R
+  - Polling
+  - Statistics
+  - Career growth, communication, applied statistics
 - Projects
-  -
+  - Modern teaching techniques
 
 * Charles
 
 - Thoughts
   -
+- Projects
+  - Polling
+  - R stuff
+
+* Doug
+
+- Thoughts
+  - How to gain traction, avoid circular pontification
+  - Audience appropriate material for group (languages, mathematics)
+  - What to start, how to move forward
 - Projects
   -
 
@@ -146,3 +159,25 @@
   - Emotion tracking
 - Projects
   - How to make solutions consumable by the stakeholders
+
+* Jacob
+
+- Thoughts
+  -
+- Projects
+  -
+
+* Indira
+
+- Thoughts
+  -
+- Projects
+  -
+
+* Grant
+
+- Thoughts
+  -
+- Projects
+  -
+
