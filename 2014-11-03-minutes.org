@@ -77,6 +77,7 @@
 
 - Thoughts
   - How to handle fuzzy data
+  - Algorith evaluation
 - Projects
   - Study of hacker news
     - Rank, titles,
@@ -96,6 +97,7 @@
   - Interesting in voice processing
   - Best way to learn something
   - Learn by doing best way
+  - Data mining
 - Projects
   - Present everything that he is learning, many interests
 
