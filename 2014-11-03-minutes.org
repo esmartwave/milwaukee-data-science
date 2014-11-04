@@ -32,6 +32,11 @@
 * Jeremy
 
 - Thoughts
-  -
+  - Data structures
+  - Where we can go with DS, what we can do with it
+  - Vagueness removal
+  - Perhaps invite fellow students out
 - Projects
-  -
+  - Game ideas
+  - Perhaps gamification
+  - Crowdsourcing human intelligence for gaming and problem solving
