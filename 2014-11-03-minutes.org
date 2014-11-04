@@ -63,6 +63,16 @@
 - Projects
   - Game ideas
 
+* Matt R
+
+- Thoughts
+  - Why it is important to use Human Centered Design practices with data science
+  - Linked Data Science
+  - Open Source Data Science
+- Projects
+  - Milwaukee Data Initaitive
+  -HackMKE Civic Tech Brigade
+
 * Bob
 
 - Thoughts
