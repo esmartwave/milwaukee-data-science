@@ -193,6 +193,7 @@
   - R
   - RapidMiner
   - Process and flow
+  - Best tools
 - Projects
   - Present on problem we are facing on that project we mentioned
 
