@@ -1,1 +1,37 @@
+* Brian
 
+- Thoughts
+  - What are the data sources
+  - Structure
+  - Data mining and other applied statistics
+  - This is the basic taxonomy
+  - Movement, tools,
+  - Reporting, analytics
+  - Continuous learning
+- Projects
+  - Do a survey project in R
+
+* Art
+
+- Translating the business problem into taking action
+
+* Joost
+
+- What would you like to get from attending?
+
+* Tom
+
+- Thoughts
+  - Get to know what other people are doing, their interests, interests
+  - Look at interesting NLP stuff
+  - Learning is required
+  - Wants to hear what Kurt V. is teaching
+- Projects
+  - Predictive analytics in the property study; turnover
+
+* Jeremy
+
+- Thoughts
+  -
+- Projects
+  -
