@@ -77,7 +77,7 @@
     - Reccomender: how to maximize visibility of posts
   - How to write a data scraper
   - Supervised learning, voice input, machine learning to quantify
-    patterns, to recognize speakers, harmoic signature, timber
+    patterns, to recognize speakers, harmonic signature, timber
   - Dev-ops, packer, vagrant, boot2docker
   - Robot localization
   - IPython Notebook
