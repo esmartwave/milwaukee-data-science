@@ -43,6 +43,7 @@
   - Wants to hear what Kurt V. is teaching
 - Projects
   - Predictive analytics in the property study; turnover
+  - 10m intro to what you found out about Julia
 
 * Jeremy
 
