@@ -180,6 +180,8 @@
     financial history, structures of data sets, common problems dealing with that data
   - 3d printing, materials, how it works, machines, techniques, visualizing data sets,
     physical interactions of rendeing, slicers
+  - Group ranked, chosen, system, perhaps an excel project
+    - Group project?
 
 * Indira
 
