@@ -102,3 +102,17 @@
   - Py OpenCV
 - Projects
   -
+
+* Michael
+
+- Thoughts
+  - Continuous learning
+  - Problem solving liason
+  - Crowdsourcing
+  - OSS
+  - Gamification, leukemia studies
+  - How to begin the explorative process
+  - Architecture of data capture systems, ETL, cleansing, datamart, big data, Hadoop
+  - Identity, and security
+- Projects
+  - How to make solutions consumable by the stakeholders
