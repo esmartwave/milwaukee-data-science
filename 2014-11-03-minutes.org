@@ -31,8 +31,11 @@
 
 - Thoughts
   - What would you like to get from attending?
+  - Eye tracking
 - Projects
-  -
+  - How to grow the DS community
+  - Working on NLP at startup
+  - Now to start a startup
 
 * Tom
 
@@ -83,3 +86,17 @@
   - Robot localization
   - IPython Notebook
   - Python in general
+  - Video tracking, motion control, to script actions of physical devices
+
+* Andrei
+
+- Thoughts
+  - Interesting in voice processing
+  - Best way to learn something
+
+* Kurt
+
+- Thoughts
+  - Py OpenCV
+- Projects
+  -
