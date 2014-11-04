@@ -56,3 +56,4 @@
   - Quantified self stuff
 - Projects
   - Bio-monitoring
+  - Bio feedback hand held device?
