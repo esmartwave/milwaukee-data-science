@@ -95,6 +95,8 @@
 - Thoughts
   - Interesting in voice processing
   - Best way to learn something
+- Projects
+  - Present everything that he is learning, many interests
 
 * Kurt
 
@@ -102,6 +104,14 @@
   - Py OpenCV
 - Projects
   -
+
+* Kurt V.
+
+- Thoughts
+  -
+- Projects
+  -
+
 
 * Michael
 
@@ -115,5 +125,6 @@
   - Architecture of data capture systems, ETL, cleansing, datamart, big data, Hadoop
   - Identity, and security
   - Drones
+  - Emotion tracking
 - Projects
   - How to make solutions consumable by the stakeholders
