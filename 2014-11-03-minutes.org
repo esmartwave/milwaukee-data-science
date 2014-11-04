@@ -202,5 +202,27 @@
 - Thoughts
   -
 - Projects
-  -
-
+  - Reproducible Research
+    - [org-mode](http://orgmode.org/), [knitr](http://yihui.name/knitr/)
+  - Version control with Git
+    - [GitHub](https://github.com/)
+  - Dev Ops
+    - [Vagrant](http://www.vagrantup.com/)
+    - [Amazon Web Services](https://aws.amazon.com/)
+  - Software Engineering
+  - Programming
+  - Consulting
+  - ℝ development
+  - Coursera [DSS](https://www.coursera.org/specialization/jhudatascience/1)
+  - How to Hack a talk at [OSCON](http://www.oscon.com/oscon2014)
+    - How to craft a proposal guaranteed to be accepted
+      - Defining the problem
+      - Data obtaining and cleaning
+        - Known talks
+        - Social networks
+        - Literature
+        - Company, employer
+        - Mechanical Turk as a resource
+      - Exploratory data analysis
+      - Data mining
+      - Model design and testing
