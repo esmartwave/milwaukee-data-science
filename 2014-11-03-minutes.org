@@ -32,10 +32,12 @@
 - Thoughts
   - What would you like to get from attending?
   - Eye tracking
+  - Complementing hacker news
 - Projects
   - How to grow the DS community
   - Working on NLP at startup
   - Now to start a startup
+  - Company status, overview, brainstorming
 
 * Tom
 
