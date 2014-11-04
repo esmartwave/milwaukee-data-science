@@ -165,9 +165,20 @@
 * Jacob
 
 - Thoughts
-  -
+  - Continuous learning
+  - R
+  - Python
+  - Expression of preferences, aggregation, election, ranking
+  - Architecture of data, machine learing, economics, application of theory of preferences
 - Projects
-  -
+  - Ranked choice voting algorithm, of topics
+  - Efficient Excel, 3-4 hours of daily use, *expert*, primary keys, not using mouse, formulas,
+    quality checks, text manipulation, querying, movement, transformation, pivots
+    - Data analysis/science with Excel
+    - 30m-1h
+  - Financial platforms, data products, uses for business units, costs, benchmarks in
+    financial history, structures of data sets, common problems dealing with that data
+  - 3d printing
 
 * Indira
 
